@@ -30,4 +30,3 @@ Requirements:
     Windows operating system
     Mozilla Firefox installed
 
-
