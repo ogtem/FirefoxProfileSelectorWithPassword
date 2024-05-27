@@ -30,4 +30,4 @@ Requirements:
     Windows operating system
     Mozilla Firefox installed
 
-This README provides clear instructions on how to use and customize the FirefoxProfileSelectorWithPassword script.
+
