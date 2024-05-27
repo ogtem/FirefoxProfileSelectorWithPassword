@@ -30,3 +30,14 @@ Gereksinimler:
     Windows işletim sistemi
     Yüklü Mozilla Firefox 
 
+
+
+Notlar:
+
+    echo Press enter to open Firefox... kısmını echo Firefox'u açmak için Enter'a basın... olarak değiştirebilirsiniz.
+    Varsayılan şifre correct_password=KLL olup, ihtiyacınıza göre değiştirebilirsiniz.
+    echo Opening Firefox...Ya...     echo Opening Firefox...Gu... echo Firefox Açılıyor...Ya... ve echo Firefox Açılıyor...Gu... benim eklediğim satırlardır, dilerseniz silebilir veya düzenleyebilirsiniz.
+    "Ya" ve "Gu" ifadelerini ihtiyacınıza göre düzenlemelisiniz.
+
+
+
