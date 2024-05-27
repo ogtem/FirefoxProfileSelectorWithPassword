@@ -1,4 +1,7 @@
-FirefoxProfileSelectorWithPassword is a batch script designed to launch Mozilla Firefox with predefined profiles based on user input. It features a simple password protection mechanism to ensure that the correct profile is opened depending on the entered password. This script is useful for users who need to quickly switch between different Firefox profiles with specific URLs, enhancing both security and efficiency.
+FirefoxProfileSelectorWithPassword
+
+Description:
+FirefoxProfileSelectorWithPassword is a batch script to launch Firefox with different profiles based on a password input. Enter the correct password to open a specific profile with predefined URLs, or the default profile otherwise. Easily customizable for different passwords, profiles, and URLs. Ideal for secure and efficient profile management.
 
 Features:
 
@@ -9,17 +12,22 @@ Features:
 
 Usage:
 
-    Run the batch file.
-    Enter the predefined password.
-    If the correct password is entered, Firefox will launch with the specified profile and URLs.
-    If an incorrect password is entered, Firefox will launch with a default profile.
+    Save the script as a .bat file on your Desktop and name it Firefox.
+    Change the icon to the Firefox icon:
+        Right-click the Firefox.bat file and select Create shortcut.
+        Right-click the new shortcut and select Properties.
+        Click the Change Icon... button.
+        Browse to the Firefox installation directory (usually C:\Program Files\Mozilla Firefox\) and select firefox.exe to use its icon.
+        Apply the changes and use the shortcut to run the script.
 
 Customization:
 
-    Edit the correct_password variable to set your own password.
-    Update the Firefox profile names and URLs as needed.
+    Edit the correct_password variable in the script to set your own password.
+    Update the Firefox profile names and URLs in the script as needed.
 
 Requirements:
 
     Windows operating system
     Mozilla Firefox installed
+
+This README provides clear instructions on how to use and customize the FirefoxProfileSelectorWithPassword script.
