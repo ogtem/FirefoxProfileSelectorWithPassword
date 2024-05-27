@@ -1,13 +1,13 @@
 FirefoxProfileSelectorWithPassword
 
 Description:
-FirefoxProfileSelectorWithPassword is a batch script to launch Firefox with different profiles based on a password input. Enter the correct password to open a specific profile with predefined URLs, or the default profile otherwise. Easily customizable for different passwords, profiles, and URLs. Ideal for secure and efficient profile management.
+FirefoxProfileSelectorWithPassword is a batch script to launch Firefox with different profiles based on user input. Enter the correct password to open a specific profile with predefined URLs, or the default profile otherwise. Easily customizable for different passwords, profiles, and URLs. Ideal for secure and efficient profile management.
 
 Features:
 
     Password-protected profile selection
     Launches Firefox with specified profiles and URLs
-    Uses delayed variable expansion for secure password handling
+    Does not display password input for secure entry
     Simple and easy-to-use interface
 
 Usage:
@@ -22,11 +22,17 @@ Usage:
 
 Customization:
 
-    Edit the correct_password variable in the script to set your own password.
-    Update the Firefox profile names and URLs in the script as needed.
+    Edit the correct_password variable in the script to set your own password. A quick combination that cannot be easily seen by someone nearby is recommended.
+    Update the Firefox profile names and URLs in the script as needed. (For more information, see the Firefox Profile Manager)
 
 Requirements:
 
     Windows operating system
     Mozilla Firefox installed
 
+Notes:
+
+    You can change echo Press enter to open Firefox... to echo Press enter to open Firefox....
+    The default password correct_password=KLL can be changed as needed.
+    echo Opening Firefox...Ya... and echo Opening Firefox...Gu.... are lines I added for me, and you can remove or modify them.
+    You should adjust the "Ya" and "Gu" expressions as needed.
