@@ -1,4 +1,4 @@
-SecureFirefoxLauncher is a batch script designed to launch Mozilla Firefox with predefined profiles based on user input. It features a simple password protection mechanism to ensure that the correct profile is opened depending on the entered password. This script is useful for users who need to quickly switch between different Firefox profiles with specific URLs, enhancing both security and efficiency.
+FirefoxProfileSelectorWithPassword is a batch script designed to launch Mozilla Firefox with predefined profiles based on user input. It features a simple password protection mechanism to ensure that the correct profile is opened depending on the entered password. This script is useful for users who need to quickly switch between different Firefox profiles with specific URLs, enhancing both security and efficiency.
 
 Features:
 
