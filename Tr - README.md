@@ -1,4 +1,4 @@
-FirefoxProfileSelectorWithPassword
+Firefox kullanıcı seçimi, şifreli.
 
 Açıklama:
 FirefoxProfileSelectorWithPassword, kullanıcı girişi ile Firefox'u farklı profillerle başlatmak için kullanılan bir batch scriptidir. Belirli bir profili açmak için doğru şifreyi girin veya aksi takdirde varsayılan profili açın. Farklı şifreler, profiller ve URL'ler için kolayca özelleştirilebilir. Güvenli ve verimli profil yönetimi için idealdir.
