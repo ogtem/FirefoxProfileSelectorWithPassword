@@ -22,7 +22,7 @@ Kullanım:
 
 Özelleştirme:
 
-    Kendi şifrenizi ayarlamak için script'teki correct_password değişkenini düzenleyin. (hızlı ve yanındaki kişinin şifre girdiğini göremeyeceği kadar hızlı bir şifre kombinasyonu mantıklı gibi)
+    Kendi şifrenizi ayarlamak için script'teki correct_password değişkenini düzenleyin. Hızlı ve yanınızdaki kişinin şifre girdiğinizi göremeyeceği bir şifre kombinasyonu mantıklı olabilir.
     Gerektiği gibi Firefox profil adlarını ve URL'leri güncelleyin. (https://support.mozilla.org/en-US/kb/profile-manager-create-remove-switch-firefox-profiles)
 
 Gereksinimler:
