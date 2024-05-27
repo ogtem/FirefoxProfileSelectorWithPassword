@@ -39,5 +39,5 @@ Notlar:
     echo Opening Firefox...Ya...     echo Opening Firefox...Gu... echo Firefox Açılıyor...Ya... ve echo Firefox Açılıyor...Gu... benim eklediğim satırlardır, dilerseniz silebilir veya düzenleyebilirsiniz.
     "Ya" ve "Gu" ifadelerini ihtiyacınıza göre düzenlemelisiniz.
 
-
+Elbette basit bir şey ama ben surattan tanıyıp uygun Firefox profilini açacak kodu yazana kadar benim için en etkili yöntem :)
 
